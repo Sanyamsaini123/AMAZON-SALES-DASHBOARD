@@ -87,11 +87,10 @@ You can:
 ✅ Share feedback via Discussions or Comment
 
 # Contact for Collaboration
-Sanyam Saini
-✉️ [sanyamsaini622@gmail.com]
-💼 [www.linkedin.com/in/sanyam-saini-ba4b79254]
+Sanyam Saini <br />
+✉️ [sanyamsaini622@gmail.com] <br />
+💼 [www.linkedin.com/in/sanyam-saini-ba4b79254] <br />
 🌍 Open to networking, feedback, and Power BI/Data Analytics collaborations.
-
 
 
 
