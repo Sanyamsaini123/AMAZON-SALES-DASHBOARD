@@ -90,6 +90,7 @@ You can:
 Sanyam Saini <br />
 ✉️ [sanyamsaini622@gmail.com] <br />
 💼 [www.linkedin.com/in/sanyam-saini-ba4b79254] <br />
+power bi profile:[https://app.powerbi.com/groups/me/reports/0ea94d90-68bc-4d79-aa7c-3311462bd602/ba2e1afa33dd0ee6b0b7?experience=power-bi] <br />
 🌍 Open to networking, feedback, and Power BI/Data Analytics collaborations.
 
 
