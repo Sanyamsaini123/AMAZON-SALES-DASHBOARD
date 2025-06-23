@@ -1,7 +1,8 @@
 # AMAZON-SALES-DASHBOARD
 This repository features a fully interactive Amazon Sales Dashboard, designed using Power BI, that provides a comprehensive, data-driven overview of Amazon's sales performance, profitability, and order trends. With the increasing importance of data visualization and real-time reporting in business environments.
 
-#Key Features of the Dashboard
+#Key insights and Features 
+
 ⭐ Interactive Visualizations:
 Clear charts for Sales by Order Date, Product Category, and Profit by State.
 Enables easy tracking of high-performing products and regions.
