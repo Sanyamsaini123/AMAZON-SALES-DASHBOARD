@@ -72,23 +72,10 @@ Ensures clear communication of insights for quick decision-making.
 Showcases practical use of Power BI to solve real-world business problems.
 Reflects your ability to convert raw data into meaningful insights using industry-leading BI tools.
 # Repository Structure
-amazon-sales-dashboard/
-│
-├── 📂 data:<a href "https://github.com/Sanyamsaini123/AMAZON-SALES-DASHBOARD/blob/main/Amazon%205_Raw.xlsx"</a>
-│   └── Amazon 5_Raw.xlsx      
-│
-├── 📂 reports/
-│   └── amazon sales dashboard.pdf   
-│
-├── 📂 dashboard/
-│   └── amazon sales dashboard.pbix  
-│
-├── 📂 images/ (Optional)
-│   └── dashboard_preview.png   
-│
-├── README.md                   
-
-
+📂 data:https://github.com/Sanyamsaini123/AMAZON-SALES-DASHBOARD/blob/main/Amazon%205_Raw.xlsx <br />
+📂 reports:https://github.com/Sanyamsaini123/AMAZON-SALES-DASHBOARD/blob/main/amazon%20sales%20dashboard.pdf <br/>  
+📂 dashboard:https://github.com/Sanyamsaini123/AMAZON-SALES-DASHBOARD/blob/main/amazon%20sales%20dashboard.pbix <br />
+📂 images:![Screenshot (37)](https://github.com/user-attachments/assets/682830c2-cfe4-4be2-a1d6-df1ab6ca0e3c)
   
 # Feedback Welcome
 Your suggestions, ideas, and constructive feedback are highly appreciated!
