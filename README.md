@@ -44,31 +44,31 @@ Project Highlights
 ✅ Created By: Sanyam Saini
 
 # Key Highlights:
-📊 Comprehensive Sales Overview
+ Comprehensive Sales Overview
 Tracks Total Sales, Total Profit, and Total Orders in one interactive dashboard.
 Provides quick access to overall business performance at a glance.
 
-📈 Time-Based Sales Trend Analysis
+ Time-Based Sales Trend Analysis
 Visualizes Sales Growth over Time (2012-2014) to identify trends, seasonal patterns, and sales spikes.
 Helps stakeholders understand historical performance and forecast future growth.
 
-🏆 Top Performing Product Categories
+ Top Performing Product Categories
 Breaks down sales across key categories like Chairs, Phones, Tables, and Accessories.
 Enables businesses to focus on high-revenue product segments.
 
-📍 Geographical Profitability Insights
+ Geographical Profitability Insights
 Displays Profit Distribution by State, highlighting the most profitable regions (e.g., California and Washington).
 Identifies underperforming areas for potential improvement or resource reallocation.
 
-💡 Focus on Profit, Not Just Revenue
+ Focus on Profit, Not Just Revenue
 Goes beyond sales tracking by including Profit Metrics, providing a more complete view of business health.
 Detects regions with losses, ensuring data-driven operational strategies.
 
-🎯 Interactive and User-Friendly Design
+ Interactive and User-Friendly Design
 Dynamic visuals and easy-to-read charts make the dashboard accessible to both technical and non-technical users.
 Ensures clear communication of insights for quick decision-making.
 
-🛠 Demonstrates Business Intelligence Skills
+ Demonstrates Business Intelligence Skills
 Showcases practical use of Power BI to solve real-world business problems.
 Reflects your ability to convert raw data into meaningful insights using industry-leading BI tools.
 # Repository Structure
